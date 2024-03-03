@@ -22,4 +22,7 @@ Need I go on? We are living this reality every where on this beautiful , yet slo
 This is precisely the reason why I wanted to present you, my dearest fellow human beings, with the following picture: 
 
 
+An aspiring writer located in a third-world country has been gifted with an idea for their debuit novel, but does not have the technological means (a Computer) to write the novel, nor the guidance on the best way to manifest this idea into our reality. Our friend does not have any connections to editors, publishers or any legal representatives to aid them on their creative journey. Our friend is physically and mentally exhausted, and is barely coping with life's ever-present challenges...
 
+
+The writer hears about Open Corporation, 

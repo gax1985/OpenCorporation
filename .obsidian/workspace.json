@@ -6,6 +6,7 @@
       {
         "id": "8a8e42f9506f34d2",
         "type": "tabs",
+        "dimension": 76.4750378214826,
         "children": [
           {
             "id": "9625212f35f306c5",
@@ -31,12 +32,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d264b2b3b88bdf3f",
         "type": "tabs",
+        "dimension": 23.5249621785174,
         "children": [
           {
             "id": "81fa2d7acd09f0db",
@@ -100,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -173,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +189,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d93ec45ed0643714",
+  "active": "9625212f35f306c5",
   "lastOpenFiles": [
     "Plan.md",
     "README.md"
