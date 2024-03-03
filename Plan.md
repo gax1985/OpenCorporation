@@ -28,6 +28,7 @@
 - [ ] Tokenization
 	 - [ ] Explanation of the role of Tokenization in relavance to time-worked
 	 - [ ] Explanation of the Voting Token
+	 - [ ] Hosting Rewards
 - [ ] The Workday
 	- [ ] Time-Keeping Methodology
 	- [ ] Scheduling Recommendation
@@ -44,7 +45,8 @@
 	- [ ] Developers/Backend Staff
 - [ ] The Classroom Aspect
 	- [ ] Intention Statement
-	- [ ] How it would work 
+	- [ ] How it would work
+	- [ ] Course Design 
 - [ ] The Charity-Based Aspect
 	- [ ] Intention Statement
 	- [ ] Web-Aggregation Aspect
@@ -52,3 +54,15 @@
 - [ ] The Guild 
 	- [ ] What it is ,,,
 	- [ ] ... and potential manifestations
+- [ ] Artificial Intelligence
+	- [ ] How it would be utilized ...
+	- [ ] Ethical considerations
+	- [ ] Artificial Intelligence in the Classroom
+	- [ ] Artificial Intelligence as a Psychological Aid
+	- [ ] Artificial Intelligence as a Creative Aid
+- [ ] Cybersecurity-Based Considerations 
+	- [ ] Authentication
+	- [ ] Verification
+	- [ ] Confidentiality 
+	- [ ] Integrity
+
