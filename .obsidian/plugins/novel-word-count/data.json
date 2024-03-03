@@ -42,33 +42,33 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05,
-      "characterCount": 136,
+      "characterCount": 143,
       "nonWhitespaceCharacterCount": 114,
       "readingTimeInMinutes": 0.05660377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1709487734279,
-      "modifiedDate": 1709495261524,
-      "sizeInBytes": 136
+      "modifiedDate": 1709496263878,
+      "sizeInBytes": 143
     },
     "Plan.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 157,
+      "wordCount": 158,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1724,
-      "nonWhitespaceCharacterCount": 1296,
-      "readingTimeInMinutes": 0.5924528301886792,
+      "pageCount": 0.5266666666666666,
+      "characterCount": 1736,
+      "nonWhitespaceCharacterCount": 1303,
+      "readingTimeInMinutes": 0.5962264150943396,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1709488766613,
-      "modifiedDate": 1709492646127,
-      "sizeInBytes": 1724
+      "modifiedDate": 1709495498437,
+      "sizeInBytes": 1736
     }
   }
 }
