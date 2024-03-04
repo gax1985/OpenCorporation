@@ -45,7 +45,14 @@ I have personally experienced some of those perks in one of my previous employme
 I have been dwelling over this topic for many years. I saw personally the oppression that the workers faced in other regions in the world, as I saw workers working for a wage that does not represent their efforts at all, all while endangering their lives and their wellbeing. I wanted to raise the baseline of what could be possible. I would like us all to be the best that we can be, at the best possible state that we can be in. I wanted us all to have all that they want, need and more ...
 
 
-First, let us iron out the challenge
+First, let us iron out the challenges that stand in our way ...
+
+
+
+[[Problem Statement| The Challenges]]
+
+
+
 
 
 

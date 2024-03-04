@@ -7,10 +7,10 @@
 
 
 - [ ] Title Page 
-- [ ] Abstract
+- [x] Abstract
 - [ ] Table of Contents 
 - [ ] Introduction
-    - [ ] A Brief Introduction
+    - [x] A Brief Introduction
     - [ ] Problem Statement
     - [ ] Objectives
 - [ ] Background
