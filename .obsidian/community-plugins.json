@@ -5,5 +5,6 @@
   "sync-graph-settings",
   "novel-word-count",
   "code-styler",
-  "readability-score"
+  "readability-score",
+  "better-word-count"
 ]
