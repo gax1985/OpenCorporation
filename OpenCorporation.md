@@ -20,7 +20,7 @@ Need I go on? We are living this reality every where on this beautiful , yet slo
 This is precisely the reason why I wanted to present you, my dearest fellow human beings, with the following picture: 
 
 
-An aspiring writer located in a third-world country has been gifted with an idea for their debuit novel, but does not have the technological means (a Computer) to write the novel, nor the guidance on the best way to manifest this idea into our reality. Our friend does not have any connections to editors, publishers or any legal representatives to aid them on their creative journey. Our friend is physically and mentally exhausted, and is barely coping with life's ever-present challenges...
+An aspiring writer located in a third-world country has been gifted with an idea for their debut novel, but does not have the technological means (a Computer) to write the novel, nor the guidance on the best way to manifest this idea into our reality. Our friend does not have any connections to editors, publishers or any legal representatives to aid them on their creative journey. Our friend is physically and mentally exhausted, and is barely coping with life's ever-present challenges...
 
 
 The writer hears about Open Corporation, would provides means of accomplishing their creative endeavor and honing their writing skill, while providing them with all the possible support that they could possibly get! 
@@ -37,6 +37,8 @@ In our minds, we would each form a concept of the ideal employment position, in 
 1. Health-based assistance (usually in the forms of a Health Plan or Drug Plan)
 2. Psychological assistance (to deal with the stresses of the employment position, and the struggles of human existence)
 3. Legal assistance, which the employee would be eligible for, as long as they follow the regulations of the organization ( in case of any legal issues )
+4. Paid Training, in which each of us can learn a new beneficial skill
+5. Incentives for excellence, such as a bonus, a promotion , etc.. 
 
 
 I have personally experienced some of those perks in one of my previous employment positions. I wished that they could be a standard practice in every organization, as the workers for any organization on this beautiful earth are the lifeline of our lives in any society. What unites us all is our humanity, and our creative nature. 
@@ -49,7 +51,7 @@ First, let us iron out the challenges that stand in our way ...
 
 
 
-[[Problem Statement| The Challenges]]
+[[Challenges| The Challenges]]
 
 
 
