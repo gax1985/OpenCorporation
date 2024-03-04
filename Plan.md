@@ -11,8 +11,8 @@
 - [ ] Table of Contents 
 - [ ] Introduction
     - [x] A Brief Introduction
-    - [ ] Problem Statement
-    - [ ] Objectives
+    - [x] Problem Statement
+    - [x] Objectives
 - [ ] Background
       - [ ] Context of the Project
       - [ ] Explanation of the Key Terms
