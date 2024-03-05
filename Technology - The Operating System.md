@@ -67,4 +67,12 @@ Due to its highly-configurable nature, we can create configurations for operatin
 
 As a writer, I plan to write my novel in the **Writer's Guild**. I thought I should recommend some additions to the user interface to aid the creative journey : 
 
+I would be greated by the Local Large Language Model, which would be scripted to greet the writer, and ask them probing questions about their written work of art ( akin to the [[[How To Write A Novel Using The Snowflake Method (advancedfictionwriting.com)](https://www.advancedfictionwriting.com/articles/snowflake-method/)|Snowflake Method]], which I found to be very helpful). So, since I am writing a work of fiction, I would write a brief description of the plot to my *Writing Assistant*, in which it would collect written works from legally-available sources online (such as [Project Gutenberg](https://www.gutenberg.org/)  ) that share similarities to the characters in the writer's novel. I thought this would help in dealing with *Writer's Block*, as the writer could chat with the *Writing Assistant* about the current situation of the character, and how similar characters from other works acted in a certain situation for example. The *Writer's Assistant* would be trained on legally-available books that are aimed for creative writing methodologies to play the role of a coach that would provide insights about the work so far. 
+
+When we proceed to the act of writing, I would have **the editor** in central part of the interface, surrounded by additions that would be available for the writer to choose from, such as a *vocabulary guide* (to prevent over-usage of certain works, and to provide fitting recommendations based on the content written already by the writer ). I would provide additions that would provide the writer with insights, such as *The World's Current Mood* ( which involves using data from Google Analytics to see the most common search terms, and rate them in terms of overall positivity), *Image Gallery* (to invigorate one's imagination), and *Fictional/Non-Fictional World Atlas*, in which the writer can plot out the character's journey in the novel, or in non-fiction in plotting out the journey of the individual. 
+
+
+The *Writing Assistant* would also offer scheduling assistance, in terms of drafting a customized schedule according to the writer's needs. This is done in order to facilitate an ongoing writing practice, and to encourage creativity. It would make the reward of accomplishment even sweeter!
+
+
 

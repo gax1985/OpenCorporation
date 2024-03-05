@@ -98,18 +98,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "022551d5f59f2858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Technology - The Operating System.md",
                 "mode": "source",
                 "source": false
@@ -129,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "d264b2b3b88bdf3f",
@@ -285,17 +273,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "022551d5f59f2858",
+  "active": "179c4a08249a15ae",
   "lastOpenFiles": [
-    "Pasted image 20240304202717.png",
-    "Pasted image 20240304202637.png",
-    "Pasted image 20240304202515.png",
     "Technology - The Blockchain.md",
     "Technology - The Operating System.md",
     "The Technological Bits.md",
-    "Plan.md",
-    "OpenCorporation.md",
+    "ScratchPad.md",
     "Challenges.md",
-    "ScratchPad.md"
+    "[Free eBooks.md",
+    "Pasted image 20240304202717.png",
+    "Pasted image 20240304202637.png",
+    "Pasted image 20240304202515.png",
+    "Plan.md",
+    "OpenCorporation.md"
   ]
 }
