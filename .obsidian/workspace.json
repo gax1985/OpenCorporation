@@ -81,6 +81,42 @@
             }
           },
           {
+            "id": "156f0e981f2b7146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "179c4a08249a15ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "022551d5f59f2858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Technological Bits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d93ec45ed0643714",
             "type": "leaf",
             "state": {
@@ -93,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "d264b2b3b88bdf3f",
@@ -178,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "The Technological Bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "The Technological Bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "The Technological Bits.md"
               }
             }
           },
@@ -249,13 +285,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "81fa2d7acd09f0db",
+  "active": "022551d5f59f2858",
   "lastOpenFiles": [
-    "Technology - The Blockchain.md",
     "Plan.md",
-    "The Technological Bits.md",
+    "OpenCorporation.md",
     "Challenges.md",
-    "ScratchPad.md",
-    "OpenCorporation.md"
+    "Technology - The Operating System.md",
+    "Technology - The Blockchain.md",
+    "The Technological Bits.md",
+    "ScratchPad.md"
   ]
 }

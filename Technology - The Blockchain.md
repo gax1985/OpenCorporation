@@ -36,3 +36,9 @@ Another wonderful feature that certain cryptocurrencies and their blockchains pr
 
 
 I see them as an integral part in insuring fairness to all those involved. Tokenization would be used in the **voting process**, **time-keeping (to insure fair division of earnings)**, and **support tokens (which would be a token issued for the project itself, in which the public audience can support the creator by purchasing their project's token).  
+
+
+
+----------------------
+
+Let us proceed towards the [[Technology - The Operating System| The Operating System!]]
