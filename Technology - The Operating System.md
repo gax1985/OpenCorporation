@@ -101,7 +101,8 @@ I know the world has taken to Artificial Intelligence in a huge way. For a long 
 To answer this, I pondered multiple strategies , such as : 
 
 
-1. Utilizing *ChatGPT 4.0*  as the **Writer's Assistance**
+#### 1. Utilizing *ChatGPT 4.0*  as the **Writer's Assistant**
+
 
 >[!pros]
 >
@@ -111,7 +112,17 @@ To answer this, I pondered multiple strategies , such as :
 >[!cons]
 >
 >1. Privacy is tremendously affected!
->2. 
+>2. The [[[New York Times Sues OpenAI and Microsoft Over Use of Copyrighted Work - The New York Times (nytimes.com)](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html)|lawsuit]] against OpenAI on the basis of **copyright infringement** presents a potential risk for OpenCorporation
+>3. Since it is a paid service, then that increases the actual fiscal costs for OpenCorporation. A potential source of revenue to cover for this service could potentially be *Ethereum Staking*, which would involve having a pool of 32 Ethereum coins to be used in the verification of Ethereum-based transactions. Another potential source is to create a Cryptocurrency-Trading bot in order to cover the costs of ChatGPT, although these measures mean potential risk for the organization (if an error causes OpenCorporation to lose its ability to fund the ChatGPT 4.0 subscription fees, and this is the sole working model, then it would mean the end of any activities involving Artificial Intelligence for the organization)
+
+
+#### 2. Utilizing *Local Offline-based Open Source Artificial Intelligence Models* as the **Writer's Assistant**
+
+
+>[!pros]
+>
+>1. Internet connectivity is not needed! A lot of members of our human family live without this amenity
+>2. There is an abundance of 
 
 
 
