@@ -95,4 +95,23 @@ After I have completed a very productive writing session, the **Operating System
 
 
 
-I know the world has taken to Artificial Intelligence in a huge way. As of this date, 
+I know the world has taken to Artificial Intelligence in a huge way. For a long time now, Artificial Intelligence has captured the imagination of us all, either for its absolute sheer potential as a creative entity and  for its comprehension abilities. There has been news recently of a lawsuit filed against **OpenAI**, which is the same entity that produced the beloved *ChatGPT 4.0* for the paying masses, and *ChatGPT 3.5* for us all. Every user that has been tempted by the sheer prowess of this intelligence would get greeted with a message that lets us know that the information that we include with our inquiries would be integrated within its massive collection of data, due to it being in continuous learning mode. This is a massive vulnerability when it comes to our privacy.
+
+
+To answer this, I pondered multiple strategies , such as : 
+
+
+1. Utilizing *ChatGPT 4.0*  as the **Writer's Assistance**
+
+>[!pros]
+>
+>1. It is quite exceptional in its creative strength!
+>2. It is incredibly intelligent
+
+>[!cons]
+>
+>1. Privacy is tremendously affected!
+>2. 
+
+
+
