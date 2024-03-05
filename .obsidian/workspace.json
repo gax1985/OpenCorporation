@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Technology - The Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Technology - The Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Technology - The Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Technological Bits.md"
+                "file": "Technology - The Operating System.md"
               }
             }
           },
@@ -287,12 +287,12 @@
   },
   "active": "022551d5f59f2858",
   "lastOpenFiles": [
+    "Technology - The Blockchain.md",
+    "Technology - The Operating System.md",
+    "The Technological Bits.md",
     "Plan.md",
     "OpenCorporation.md",
     "Challenges.md",
-    "Technology - The Operating System.md",
-    "Technology - The Blockchain.md",
-    "The Technological Bits.md",
     "ScratchPad.md"
   ]
 }
