@@ -30,15 +30,41 @@ So to demonstrate :
 ##### Hyprland 
 
 
-I have found the following screenshots on Hyprland's website, in which the makers hosted *ricing contests (it refers to the Art of Customizing Window Managers)* : 
+I have found the following screenshots on Hyprland's website ([Hyprland](https://hyprland.org/)), in which the makers hosted *ricing contests (it refers to the Art of Customizing Window Managers)* : 
+
+
+![[Pasted image 20240304202515.png]]
 
 
 
+![[Pasted image 20240304202637.png]]
 
 
 
-[Hyprland](https://hyprland.org/)
+![[Pasted image 20240304202717.png]]
 
 
+
+Please feel free to check out their wonderful works of art at the following link : 
+
+
+[Hall of Fame (hyprland.org)](https://hyprland.org/hall_of_fame/)
+
+
+
+#### The Operating System (*which runs the User Interface*)
+
+
+
+I am really excited to recommend a Linux distribution that is truly mindblowing in its potential, where one can configure the operating system from one file ( or more if more complexity/resourcefulness is desired), save the configuration file, and then install the operating system on another machine and re-create the user experience that they normally use while retaining all the desired applications! 
+
+
+It helps a *ton* to be able to restore to a previous generation if disaster strikes! Thankfully, NixOS does!
+
+
+Due to its highly-configurable nature, we can create configurations for operating systems used by the different *guilds*, in which we would work with the creators directly to come up with the best configuration possible for them. Configuration files can be edited as needed, and the changes would be pushed to the desired container on a routine basis. 
+
+
+As a writer, I plan to write my novel in the **Writer's Guild**. I thought I should recommend some additions to the user interface to aid the creative journey : 
 
 
