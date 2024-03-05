@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology - Part I - The User Experience.md",
+                "file": "Technology - The Blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Technology - The Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Technology - The Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Technology - The Blockchain.md"
               }
             }
           },
@@ -249,13 +249,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "81fa2d7acd09f0db",
+  "active": "6cc7f61763fb886e",
   "lastOpenFiles": [
-    "Technology - Part I - The User Experience.md",
+    "Plan.md",
+    "Technology - The Blockchain.md",
     "The Technological Bits.md",
     "Challenges.md",
     "ScratchPad.md",
-    "OpenCorporation.md",
-    "Plan.md"
+    "OpenCorporation.md"
   ]
 }
