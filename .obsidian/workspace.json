@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology - The Operating System.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -273,10 +273,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "179c4a08249a15ae",
+  "active": "81fa2d7acd09f0db",
   "lastOpenFiles": [
-    "Technology - The Blockchain.md",
     "Technology - The Operating System.md",
+    "Technology - The Blockchain.md",
     "The Technological Bits.md",
     "ScratchPad.md",
     "Challenges.md",

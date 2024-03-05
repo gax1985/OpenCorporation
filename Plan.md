@@ -14,8 +14,8 @@
     - [x] Problem Statement
     - [x] Objectives
 - [x] Background
-      - [ ] Context of the Project
-      - [ ] Explanation of the Key Terms
+	- [x] Context of the Project
+	 - [x] Explanation of the Key Terms
 	 
 - [ ] Technology
 	- [x] Explanation of Blockchain utilization
@@ -23,7 +23,7 @@
 	 - [x] Explanation of Smart Contracts' Usage
 	 - [ ] The Operating System
 	 - [ ] Custering
-	 - [ ] The Window Manager
+	 - [x] The Window Manager
 	 - [ ] Supported Devices
 - [ ] Tokenization
 	 - [ ] Explanation of the role of Tokenization in relavance to time-worked

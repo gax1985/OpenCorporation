@@ -75,4 +75,13 @@ When we proceed to the act of writing, I would have **the editor** in central pa
 The *Writing Assistant* would also offer scheduling assistance, in terms of drafting a customized schedule according to the writer's needs. This is done in order to facilitate an ongoing writing practice, and to encourage creativity. It would make the reward of accomplishment even sweeter!
 
 
+The *Writing Assistant* itself would be an Open-Source Large Language Model that can be used commercially. They are currently available, free to use, and completely offline! 
+
+
+The idea is to have the **User Interface** which the writer uses to be completely offline! This is done for a variety of reasons, such as increased security and the encouragement of focus. 
+
+
+After I have completed a very productive writing session, the **Operating System** would record the total time spent on writing, and then issue a command to the **Hypervisor** to issue the tokens for the **Time Worked** on the project, and a **voting token** for each hour of work. The token would have *granularity* as a feature to promote flexibility!
+
+
 
