@@ -122,7 +122,9 @@ To answer this, I pondered multiple strategies , such as :
 >[!pros]
 >
 >1. Internet connectivity is not needed! A lot of members of our human family live without this amenity
->2. There is an abundance of 
+>2. There is an abundance of Open-Source Large Language Models that can be used commercially! to list a few :
+>   
+>1. 
 
 
 
