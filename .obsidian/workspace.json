@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology - The Blockchain.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology - The Blockchain.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology - The Blockchain.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -249,10 +249,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6cc7f61763fb886e",
+  "active": "81fa2d7acd09f0db",
   "lastOpenFiles": [
-    "Plan.md",
     "Technology - The Blockchain.md",
+    "Plan.md",
     "The Technological Bits.md",
     "Challenges.md",
     "ScratchPad.md",

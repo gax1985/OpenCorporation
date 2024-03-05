@@ -18,9 +18,9 @@
       - [ ] Explanation of the Key Terms
 	 
 - [ ] Technology
-	- [ ] Explanation of Blockchain utilization
-	 - [ ] Description of the DAO Concept 
-	 - [ ] Explanation of Smart Contracts' Usage
+	- [x] Explanation of Blockchain utilization
+	 - [x] Description of the DAO Concept 
+	 - [x] Explanation of Smart Contracts' Usage
 	 - [ ] The Operating System
 	 - [ ] Custering
 	 - [ ] The Window Manager
