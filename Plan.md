@@ -13,7 +13,7 @@
     - [x] A Brief Introduction
     - [x] Problem Statement
     - [x] Objectives
-- [ ] Background
+- [x] Background
       - [ ] Context of the Project
       - [ ] Explanation of the Key Terms
 	 

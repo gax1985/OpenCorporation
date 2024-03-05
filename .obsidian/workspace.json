@@ -69,6 +69,18 @@
             }
           },
           {
+            "id": "6cc7f61763fb886e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology - Part I - The User Experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d93ec45ed0643714",
             "type": "leaf",
             "state": {
@@ -81,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d264b2b3b88bdf3f",
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Technological Bits.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -237,12 +249,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9916b567827c9930",
+  "active": "81fa2d7acd09f0db",
   "lastOpenFiles": [
+    "Technology - Part I - The User Experience.md",
+    "The Technological Bits.md",
     "Challenges.md",
     "ScratchPad.md",
     "OpenCorporation.md",
-    "The Technological Bits.md",
     "Plan.md"
   ]
 }

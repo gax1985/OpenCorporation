@@ -30,3 +30,8 @@ How would it apply in this case?
 I see **Open Corporation** as a living entity that is composed of *creative minds* from all around this beautiful earth, where we can practice caring and charity by design. The corporation would have transaction fees, which are distributed evenly among all the members of the corporation who are participating at the time. A portion of the transaction fees would be distributed to a charity that requires urgent and immediate assistance, a second charity that is focused on environmental issues, and a third charity that is local to where the creator is based ( this is what I would recommend, as other human beings in the world, the planet we inhabit, and our local communities require our urgent assistance). In terms of the wellness portion of this corporation, it would be provided by psychological-aid workers and local medical insurance providers. The patent and copyright-based legal aspects would be contracted to patent/copyright legal practitioners local to the creator's region! In terms of the transaction fee, I was thinking it would be  fitting  to make the transaction fees 1% of the final proceedings of the creative endeavor, so we can flip the current 1% that we have now ; ) 
 
 
+How can we do so *technologically-speaking* ? I am glad you asked : )
+
+
+
+[[Technology - Part I - The User Experience]]
