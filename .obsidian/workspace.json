@@ -6,26 +6,15 @@
       {
         "id": "8a8e42f9506f34d2",
         "type": "tabs",
+        "dimension": 83.22175732217573,
         "children": [
-          {
-            "id": "9625212f35f306c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCorporation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "be6201fc02e429a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenCorporation.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,21 +91,28 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "d4cadb6302a215c6",
+        "type": "tabs",
+        "dimension": 16.778242677824267,
+        "children": [
           {
-            "id": "d93ec45ed0643714",
+            "id": "72153b2107cc8579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 697.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -235,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -252,16 +248,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d93ec45ed0643714",
+  "active": "179c4a08249a15ae",
   "lastOpenFiles": [
-    "[Free eBooks.md",
-    "Technology - The Operating System.md",
-    "Technology - The Blockchain.md",
-    "OpenCorporation.md",
     "Plan.md",
+    "OpenCorporation.md",
+    "Technology - The Blockchain.md",
+    "Challenges.md",
+    "Technology - The Operating System.md",
+    "[Free eBooks.md",
     "The Technological Bits.md",
     "ScratchPad.md",
-    "Challenges.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",
     "Pasted image 20240304202515.png"
