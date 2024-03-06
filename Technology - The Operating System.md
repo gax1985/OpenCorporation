@@ -71,7 +71,13 @@ The **Operating System** should be prepared in a way that can be run on almost a
 
 >[!howto]
 >
->1. We wo
+>1. We would create a **NixOS-Based WSL2 Container**. 
+>2. In the **WSL2 Container**, we would add [[[Kubernetes](https://kubernetes.io/)|Kubernetes]] to it, and configure it that it would be added to the container's configuration file via the steps mentioned in the following link : 
+>   [[[Kubernetes - NixOS Wiki](https://nixos.wiki/wiki/Kubernetes)]]
+
+>[!note]
+>
+>We could install the **Nix Package Manager** to a pre-existing *WSL2 Container* , or we can use [[[elitak/nixos-infect: [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (github.com)](https://github.com/elitak/nixos-infect)|nixos-infect]] to install NixOS on non-NixOS-based systems! 
 
 
 
