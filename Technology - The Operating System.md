@@ -122,9 +122,23 @@ To answer this, I pondered multiple strategies , such as :
 >[!pros]
 >
 >1. Internet connectivity is not needed! A lot of members of our human family live without this amenity
->2. There is an abundance of Open-Source Large Language Models that can be used commercially! to list a few :
->   
->1. 
+>2. There is an abundance of free Open-Source Large Language Models that can be used commercially!
+
+
+>[!cons]
+>
+>1. The free Open-Source Large Language Models tend to produce responses that may be not as impressive as ChatGPT 4.0 ( although, in terms of quality of responses, it is very close to ChatGPT 3.5's quality).
+
+ 
+###### The Plan :
+
+1. The **Operating System** would download the **Large Language Model** from [[[Hugging Face – The AI community building the future.](https://huggingface.co/)|HuggingFace.com]], in accordance to the current ranking of the model of choice ( and its suitability for the task).
+2. The model would be trained on the freely-sourced books that would be most useful to the writer by using [[[nomic-ai/gpt4all: gpt4all: run open-source LLMs anywhere (github.com)](https://github.com/nomic-ai/gpt4all)| GPT4ALL]], which is made by [[[Nomic AI](https://home.nomic.ai/)|Nomic.AI]] as a graphical interface for interacting with Large Language Models. It has a wonderful feature of being able to be trained on a large variety of file formats : 
+   
+   
+4. Afterwards, the model would be ready for use! 
+
+
 
 
 
