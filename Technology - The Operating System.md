@@ -65,6 +65,16 @@ It helps a *ton* to be able to restore to a previous generation if disaster stri
 Due to its highly-configurable nature, we can create configurations for operating systems used by the different *guilds*, in which we would work with the creators directly to come up with the best configuration possible for them. Configuration files can be edited as needed, and the changes would be pushed to the desired container on a routine basis. 
 
 
+
+
+
+
+
+
+
+Let us proceed to **Writer's Guild**, so we can see a manifestation of **Open Corporation**! 
+
+
 # The Writer's Guild 
 
 
@@ -133,10 +143,22 @@ To answer this, I pondered multiple strategies , such as :
 ###### The Plan :
 
 1. The **Operating System** would download the **Large Language Model** from [[[Hugging Face – The AI community building the future.](https://huggingface.co/)|HuggingFace.com]], in accordance to the current ranking of the model of choice ( and its suitability for the task).
-2. The model would be trained on the freely-sourced books that would be most useful to the writer by using [[[nomic-ai/gpt4all: gpt4all: run open-source LLMs anywhere (github.com)](https://github.com/nomic-ai/gpt4all)| GPT4ALL]], which is made by [[[Nomic AI](https://home.nomic.ai/)|Nomic.AI]] as a graphical interface for interacting with Large Language Models. It has a wonderful feature of being able to be trained on a large variety of file formats : 
-   
-   
-4. Afterwards, the model would be ready for use! 
+2. The model would be trained on the freely-sourced books that would be most useful to the writer by using [[[nomic-ai/gpt4all: gpt4all: run open-source LLMs anywhere (github.com)](https://github.com/nomic-ai/gpt4all)| GPT4ALL]], which is made by [[[Nomic AI](https://home.nomic.ai/)|Nomic.AI]] as a graphical interface for interacting with Large Language Models. It has a wonderful feature of being able to be trained on a large variety of file formats by using the [[[GPT4All Chat Client - GPT4All Documentation](https://docs.gpt4all.io/gpt4all_chat.html#plugins)|LocalDocs]] Plugin! 
+5. Afterwards, the model would be ready for use! 
+
+
+
+As the writer proceeds with the writing practice, the **Writer Assistant** would provide recommendations as needed. The writer could ask the Large Language Model about the character thus far, where the writer could analyze the character on different aspects from an index of 0-10 , in areas such as : 
+
+1. Agility
+2. Physical Strength
+3. Psychological Stability
+4. Resourcefulness
+5. Social skills
+
+Based on this, and due to the **Writer Assistant** inquiring at the beginning of the session, it would be beneficial to use this index in comparisons between the main character's state at a different point in the novel as compared to now! 
+
+I thought it would be wonderful to have a Python script within the Operating System that would make recommendations via the **Writer's Assistant** based on the current events in the world, or a scale that would rate the most prominent search term on Google via *Google Analytics* in terms of overall positivity! 
 
 
 
