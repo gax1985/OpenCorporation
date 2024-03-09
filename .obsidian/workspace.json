@@ -86,8 +86,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology - The Operating System.md",
-                "mode": "source",
+                "file": "Plan.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology - The Operating System.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -262,12 +262,12 @@
   },
   "active": "179c4a08249a15ae",
   "lastOpenFiles": [
+    "OpenCorporation.md",
+    "Technology - The Operating System.md",
     "Technology - The Blockchain.md",
     "Writers' Guild.md",
     "Challenges.md",
-    "Technology - The Operating System.md",
     "Plan.md",
-    "OpenCorporation.md",
     "[Free eBooks.md",
     "The Technological Bits.md",
     "ScratchPad.md",
