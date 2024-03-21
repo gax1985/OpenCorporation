@@ -6,7 +6,6 @@
       {
         "id": "8a8e42f9506f34d2",
         "type": "tabs",
-        "dimension": 83.22175732217573,
         "children": [
           {
             "id": "be6201fc02e429a1",
@@ -81,18 +80,6 @@
             }
           },
           {
-            "id": "179c4a08249a15ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "118d0d858defbc28",
             "type": "leaf",
             "state": {
@@ -103,28 +90,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "d4cadb6302a215c6",
-        "type": "tabs",
-        "dimension": 16.778242677824267,
-        "children": [
+          },
           {
-            "id": "72153b2107cc8579",
+            "id": "179c4a08249a15ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 697.5
+    "width": 697.5,
+    "collapsed": true
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -190,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Writers' Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Writers' Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Writers' Guild.md"
               }
             }
           },
@@ -247,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,14 +241,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "179c4a08249a15ae",
+  "active": "118d0d858defbc28",
   "lastOpenFiles": [
+    "Plan.md",
     "OpenCorporation.md",
     "Technology - The Operating System.md",
     "Technology - The Blockchain.md",
     "Writers' Guild.md",
     "Challenges.md",
-    "Plan.md",
     "[Free eBooks.md",
     "The Technological Bits.md",
     "ScratchPad.md",

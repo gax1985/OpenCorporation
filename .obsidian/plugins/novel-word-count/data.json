@@ -35,23 +35,23 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "Writers' Guild.md": {
+    "[Free eBooks.md": {
       "isCountable": true,
       "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1176,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.92,
-      "characterCount": 7793,
-      "nonWhitespaceCharacterCount": 6534,
-      "readingTimeInMinutes": 4.437735849056604,
-      "linkCount": 6,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709733188714,
-      "modifiedDate": 1709733224498,
-      "sizeInBytes": 7795
+      "aliases": [],
+      "createdDate": 1709603427265,
+      "modifiedDate": 1709603422000,
+      "sizeInBytes": 0
     },
     "Technology - The Blockchain.md": {
       "isCountable": true,
@@ -71,23 +71,23 @@
       "modifiedDate": 1709600661000,
       "sizeInBytes": 2706
     },
-    "[Free eBooks.md": {
+    "Writers' Guild.md": {
       "isCountable": true,
       "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1176,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 3.92,
+      "characterCount": 7793,
+      "nonWhitespaceCharacterCount": 6534,
+      "readingTimeInMinutes": 4.437735849056604,
+      "linkCount": 6,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1709603427265,
-      "modifiedDate": 1709603422000,
-      "sizeInBytes": 0
+      "aliases": null,
+      "createdDate": 1709733188714,
+      "modifiedDate": 1709733224498,
+      "sizeInBytes": 7795
     },
     "The Technological Bits.md": {
       "isCountable": true,
@@ -125,23 +125,23 @@
       "modifiedDate": 1709734754410,
       "sizeInBytes": 4390
     },
-    "ScratchPad.md": {
-      "isCountable": true,
+    "Pasted image 20240304202717.png": {
+      "isCountable": false,
       "isDirectory": false,
-      "noteCount": 1,
+      "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
+      "wordGoal": 0,
       "pageCount": 0,
-      "characterCount": 7,
+      "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709592881452,
-      "modifiedDate": 1709595229000,
-      "sizeInBytes": 7
+      "aliases": [],
+      "createdDate": 1709602040682,
+      "modifiedDate": 1709602037000,
+      "sizeInBytes": 488098
     },
     "Plan.md": {
       "isCountable": true,
@@ -161,7 +161,25 @@
       "modifiedDate": 1709604999000,
       "sizeInBytes": 1715
     },
-    "Pasted image 20240304202515.png": {
+    "ScratchPad.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 7,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709592881452,
+      "modifiedDate": 1709595229000,
+      "sizeInBytes": 7
+    },
+    "Pasted image 20240304202637.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -175,9 +193,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709601921582,
-      "modifiedDate": 1709601915000,
-      "sizeInBytes": 367473
+      "createdDate": 1709601999395,
+      "modifiedDate": 1709601997000,
+      "sizeInBytes": 928591
     },
     "OpenCorporation.md": {
       "isCountable": true,
@@ -197,7 +215,7 @@
       "modifiedDate": 1709593075000,
       "sizeInBytes": 3651
     },
-    "Pasted image 20240304202717.png": {
+    "Pasted image 20240304202515.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -211,27 +229,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1709602040682,
-      "modifiedDate": 1709602037000,
-      "sizeInBytes": 488098
-    },
-    "Pasted image 20240304202637.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1709601999395,
-      "modifiedDate": 1709601997000,
-      "sizeInBytes": 928591
+      "createdDate": 1709601921582,
+      "modifiedDate": 1709601915000,
+      "sizeInBytes": 367473
     },
     "Challenges.md": {
       "isCountable": true,
