@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8a8e42f9506f34d2",
+        "id": "67a6d35f00daf7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "be6201fc02e429a1",
+            "id": "73b533ab0c067f33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe6068c53679d579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ScratchPad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc6e570dacba422a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9916b567827c9930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Technological Bits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc7f61763fb886e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology - The Blockchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "156f0e981f2b7146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118d0d858defbc28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writers' Guild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179c4a08249a15ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writers' Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writers' Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Writers' Guild.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,17 +148,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "118d0d858defbc28",
+  "active": "73b533ab0c067f33",
   "lastOpenFiles": [
     "Plan.md",
-    "OpenCorporation.md",
-    "Technology - The Operating System.md",
-    "Technology - The Blockchain.md",
     "Writers' Guild.md",
     "Challenges.md",
-    "[Free eBooks.md",
+    "Technology - The Blockchain.md",
     "The Technological Bits.md",
     "ScratchPad.md",
+    "OpenCorporation.md",
+    "Technology - The Operating System.md",
+    "[Free eBooks.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",
     "Pasted image 20240304202515.png"
