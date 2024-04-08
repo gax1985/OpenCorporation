@@ -15,7 +15,7 @@ This formula provides the element of *layering*, in which we would strive to ins
 So , to simplify : 
 
 
-The *hypervisor*  would run *Docker Containers* which contain the *graphical user interface* that the writer would use to create their work of art!
+The *hypervisor*  would run *Docker/Kubernetes Containers* which contain the *graphical user interface* that the writer would use to create their work of art!
 
 
 I have done a lot of research in my aim to find a graphical user interface that is fun to use and light on resources, and I found that the **Linux-based Window Managers** fit the bill, as they are extremely light-weight and *endlessly customizable* ( which would be our bread and butter!)
@@ -81,7 +81,7 @@ The **Operating System** should be prepared in a way that can be run on almost a
 
 
 
-## The Cluster[[Technology - The Cluster]] 
+## The Cluster[[Technology - The Cluster| The Cluster]] 
 
 
 Since this idea stems of the shared computing power from all the participants in the organization, we would have to come up with different options to make the **Cluster** a reality. After a lot of research, I thought the following options are available to do so : 
