@@ -72,7 +72,7 @@ The **Operating System** should be prepared in a way that can be run on almost a
 >[!howto]
 >
 >1. We would create a **NixOS-Based WSL2 Container**. 
->2. In the **WSL2 Container**, we would add [[[Kubernetes](https://kubernetes.io/)|Kubernetes]] to it, and configure it that it would be added to the container's configuration file via the steps mentioned in the following link : 
+>2. In the **WSL2 Container**, we would install [[[Kubernetes](https://kubernetes.io/)|Kubernetes]] to it, and configure it that it would be added to the container's configuration file via the steps mentioned in the following link : 
 >   [[[Kubernetes - NixOS Wiki](https://nixos.wiki/wiki/Kubernetes)]]
 
 >[!note]
@@ -81,7 +81,7 @@ The **Operating System** should be prepared in a way that can be run on almost a
 
 
 
-## The Cluster 
+## The Cluster[[Technology - The Cluster]] 
 
 
 Since this idea stems of the shared computing power from all the participants in the organization, we would have to come up with different options to make the **Cluster** a reality. After a lot of research, I thought the following options are available to do so : 
