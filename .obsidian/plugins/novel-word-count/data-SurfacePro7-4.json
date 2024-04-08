@@ -115,15 +115,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.7266666666666666,
-      "characterCount": 5682,
+      "characterCount": 5683,
       "nonWhitespaceCharacterCount": 4704,
       "readingTimeInMinutes": 3.086792452830189,
       "linkCount": 4,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1709622020842,
-      "modifiedDate": 1712610187719,
-      "sizeInBytes": 5682
+      "modifiedDate": 1712610128829,
+      "sizeInBytes": 5683
     },
     "Technology - The Blockchain.md": {
       "isCountable": true,

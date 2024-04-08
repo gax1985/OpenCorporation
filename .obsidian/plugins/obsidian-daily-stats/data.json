@@ -1,11 +1,15 @@
 {
   "dayCounts": {
-    "2024/3/8": 199
+    "2024/3/8": 198
   },
   "todaysWordCount": {
+    "Plan.md": {
+      "initial": 177,
+      "current": 177
+    },
     "Technology - The Operating System.md": {
-      "initial": 696,
-      "current": 895
+      "initial": 689,
+      "current": 887
     }
   }
 }

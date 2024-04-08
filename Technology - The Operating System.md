@@ -80,8 +80,7 @@ The **Operating System** should be prepared in a way that can be run on almost a
 
 >[!note]
 >
->We could install the **Nix Package Manager** to a pre-existing *WSL2 Container* , or we can use [[[elitak/nixos-infect: [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (github.com)](https://github.com/elitak/nixos-infect)|nixos-infect]] to install NixOS on non-NixOS-based systems! 
-
+>We could install the **Nix Package Manager** to a pre-existing *WSL2 Container* such as an Ubuntu WSL Container , or we can use [[[elitak/nixos-infect: [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (github.com)](https://github.com/elitak/nixos-infect)|nixos-infect]] to install NixOS on non-NixOS-based systems! 
 
 ##### 2. A Bare Metal NixOS-based Distribution
 
