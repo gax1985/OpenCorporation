@@ -93,19 +93,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 757,
+      "wordCount": 827,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.5233333333333334,
-      "characterCount": 5148,
-      "nonWhitespaceCharacterCount": 4248,
-      "readingTimeInMinutes": 2.8566037735849057,
+      "pageCount": 2.756666666666667,
+      "characterCount": 5702,
+      "nonWhitespaceCharacterCount": 4717,
+      "readingTimeInMinutes": 3.120754716981132,
       "linkCount": 4,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1709600670424,
-      "modifiedDate": 1712607903146,
-      "sizeInBytes": 5148
+      "modifiedDate": 1712608584796,
+      "sizeInBytes": 5702
     },
     "Plan.md": {
       "isCountable": true,
@@ -250,6 +250,24 @@
       "createdDate": 1709592262343,
       "modifiedDate": 1709595233000,
       "sizeInBytes": 1883
+    },
+    "Chats/New Chat.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36,
+      "characterCount": 636,
+      "nonWhitespaceCharacterCount": 512,
+      "readingTimeInMinutes": 0.4075471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1712608061269,
+      "modifiedDate": 1712608158319,
+      "sizeInBytes": 636
     }
   }
 }

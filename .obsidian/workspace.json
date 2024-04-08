@@ -168,9 +168,19 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "d0dcf25044e59f0b",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -185,13 +195,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
   "active": "73b533ab0c067f33",
   "lastOpenFiles": [
-    "Technology - The Blockchain.md",
+    "Chats/New Chat.md",
     "Technology - The Operating System.md",
+    "Chats",
+    "Technology - The Blockchain.md",
     "The Technological Bits.md",
     "Writers' Guild.md",
     "OpenCorporation.md",

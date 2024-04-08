@@ -83,7 +83,21 @@ The **Operating System** should be prepared in a way that can be run on almost a
 ##### 2. A Bare Metal NixOS-based Distribution
 
 
-This option would provide the means to run our operating system on bare-metal ( which means it can be installed directly unto a hard-drive, USB Flash Drive) or to run it in a virtual machine. The latter option would be tremendously helpful at the design stage, as we would simulate different configurations ( in terms of virtualized hardware) to mimick realistic usage scenarios ( such as developing the operating system to run on Android devices for example. Apple devices would be a bit more challenging, as the only hypervisor that worked on iOS and iPad OS devices is [UTM (getutm.app)](https://getutm.app/). Nonetheless,  if we examine the documentation 
+This option would provide the means to run our operating system on bare-metal ( which means it can be installed directly unto a hard-drive, USB Flash Drive) or to run it in a virtual machine. The latter option would be tremendously helpful at the design stage, as we would simulate different configurations ( in terms of virtualized hardware) to mimic realistic usage scenarios ( such as developing the operating system to run on Android devices for example). 
+
+##### 2. A NixOS-based Distribution (running virtually on iPhone/iPad)
+
+
+Apple's mobile devices would be a bit more challenging, as the only hypervisor that worked on iOS and iPad OS devices is [UTM](https://getutm.app/). Nonetheless,  if we examine the portion of the [Documentation]([iOS | UTM Documentation (getutm.app)](https://docs.getutm.app/installation/ios/)) involving the installation of the hypervisor unto an iOS/iPadOS device, the steps are far too daunting for us without the technological know-how and means to jailbreak their device.
+
+
+##### 2. A NixOS-based Distribution (running virtually on MacOS)
+
+
+Running the hypervisor on a MacOS-based device would be far easier than its mobile counterparts ( due to the mentioned reasons). 
+
+
+
 
 
 
