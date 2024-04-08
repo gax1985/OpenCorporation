@@ -18,7 +18,7 @@ So , to simplify :
 The *hypervisor*  would run *Docker/Kubernetes Containers* which contain the *graphical user interface* that the writer would use to create their work of art!
 
 
-I have done a lot of research in my aim to find a graphical user interface that is fun to use and light on resources, and I found that the **Linux-based Window Managers** fit the bill, as they are extremely light-weight and *endlessly customizable* ( which would be our bread and butter!)
+I have done a lot of research in my aim to find the right graphical user interface for the operating system that is fun to use and light on resources, and I found that the **Linux-based Window Managers** fit the bill, as they are extremely light-weight and *endlessly customizable* ( which would be our bread and butter!)
 
 
 
@@ -80,8 +80,14 @@ The **Operating System** should be prepared in a way that can be run on almost a
 >We could install the **Nix Package Manager** to a pre-existing *WSL2 Container* , or we can use [[[elitak/nixos-infect: [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications) (github.com)](https://github.com/elitak/nixos-infect)|nixos-infect]] to install NixOS on non-NixOS-based systems! 
 
 
+##### 2. A Bare Metal NixOS-based Distribution
 
-## The Cluster[[Technology - The Cluster| The Cluster]] 
+
+This option would provide the means to run our operating system on bare-metal ( which means it can be installed directly unto a hard-drive, USB Flash Drive) or to run it in a virtual machine. The latter option would be tremendously helpful at the design stage, as we would simulate different configurations ( in terms of virtualized hardware) to mimick realistic usage scenarios ( such as developing the operating system to run on Android devices for example. Apple devices would be a bit more challenging, as the only hypervisor that worked on iOS and iPad OS devices is [UTM (getutm.app)](https://getutm.app/). Nonetheless,  if we examine the documentation 
+
+
+
+## The Cluster
 
 
 Since this idea stems of the shared computing power from all the participants in the organization, we would have to come up with different options to make the **Cluster** a reality. After a lot of research, I thought the following options are available to do so : 
