@@ -99,7 +99,11 @@ Apple's mobile devices would be a bit more challenging, as the only hypervisor t
 Running the hypervisor on a MacOS-based device would be far easier than its mobile counterparts ( due to the mentioned reasons). 
 
 
-##### 3. A NixOS-based Distribution (running virtually Android-based devices)
+##### 3. A NixOS-based Distribution (running virtually on Android-based devices)
+
+
+In terms of running the distribution on an Android device, I have found some promising projects that enable the user to run a virtual machine on Android. Let us go through some of the available options :
+
 
 
 
