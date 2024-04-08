@@ -68,7 +68,7 @@ It helps a *ton* to be able to restore to a previous generation if disaster stri
 Due to its highly-configurable nature, we can create configurations for operating systems used by the different *guilds*, in which we would work with the creators directly to come up with the best configuration possible for them. Configuration files can be edited as needed, and the changes would be pushed to the desired container on a routine basis. 
 
 
-The **Operating System** should be prepared in a way that can be run on almost any device out there in the wild. We know that we can not guarantee that it would run, due to the differences in processors, the processor's architecture, the availability of drivers and so on. Since the majority of computer systems are running Microsoft Windows, I thought the following formulations should be made to provide a wider *availability* : 
+The **Operating System** should be prepared in a way that can be run on almost any device out there in the wild. We know that we can not guarantee that it would run, due to the differences in processors, the processor's architecture, the availability of drivers and so on. Since the majority of computer systems are running Microsoft Windows, I thought of starting with the following formulations, as they should be made to provide a wider *availability*. This is followed by other formulations for iOS/iPad devices , MacOS-based systems,  and Android : 
 
 ##### 1. A WSL2 Container (for **Microsoft Windows**)
 
@@ -97,6 +97,12 @@ Apple's mobile devices would be a bit more challenging, as the only hypervisor t
 
 
 Running the hypervisor on a MacOS-based device would be far easier than its mobile counterparts ( due to the mentioned reasons). 
+
+
+##### 3. A NixOS-based Distribution (running virtually Android-based devices)
+
+
+
 
 
 
