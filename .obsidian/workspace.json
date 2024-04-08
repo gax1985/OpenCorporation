@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology - The Cluster.md",
+                "file": "Technology - The Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology - The Cluster.md",
+                "file": "Technology - The Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology - The Cluster.md",
+                "file": "Technology - The Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology - The Cluster.md"
+                "file": "Technology - The Operating System.md"
               }
             }
           },
@@ -212,16 +212,16 @@
   },
   "active": "fdce19bacd19c08d",
   "lastOpenFiles": [
+    "Writers' Guild.md",
+    "The Technological Bits.md",
+    "Technology - The Blockchain.md",
+    "Technology - The Cluster.md",
     "Plan.md",
     "Chats/New Chat.md",
     "Chats",
     "ScratchPad.md",
-    "Technology - The Blockchain.md",
-    "Technology - The Cluster.md",
     "Technology - The Operating System.md",
-    "The Technological Bits.md",
     "Challenges.md",
-    "Writers' Guild.md",
     "OpenCorporation.md",
     "[Free eBooks.md",
     "Pasted image 20240304202717.png",
