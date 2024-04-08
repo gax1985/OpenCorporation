@@ -8,5 +8,9 @@
   "readability-score",
   "better-word-count",
   "obsidian-emoji-toolbar",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-daily-stats",
+  "graph-analysis",
+  "juggl",
+  "typewriter-mode"
 ]

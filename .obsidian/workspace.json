@@ -11,8 +11,12 @@
             "id": "73b533ab0c067f33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Writers' Guild.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 697.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writers' Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writers' Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Writers' Guild.md"
+              }
             }
           },
           {
@@ -129,13 +136,45 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "07d5ed4522f9bdef",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "54c71588802b9715",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8f2586034e1e5b9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "73f65721c2daf0fc",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,20 +184,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "juggl:Juggl global graph": false
     }
   },
   "active": "73b533ab0c067f33",
   "lastOpenFiles": [
+    "OpenCorporation.md",
+    "[Free eBooks.md",
     "Plan.md",
     "Writers' Guild.md",
     "Challenges.md",
     "Technology - The Blockchain.md",
     "The Technological Bits.md",
     "ScratchPad.md",
-    "OpenCorporation.md",
     "Technology - The Operating System.md",
-    "[Free eBooks.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",
     "Pasted image 20240304202515.png"
