@@ -105,11 +105,13 @@ Running the hypervisor on a MacOS-based device would be far easier than its mobi
 In terms of running the distribution on an Android device, I have found some promising projects that enable the user to run a virtual machine on Android. Let us go through some of the available options :
 
 
-
-
-
-
-
+  >
+>1.  [Andronix](https://andronix.app/)  :
+ >  
+>This application provides the Android user with the ability to run a virtual machine on the device. They provide custom-made distributions for the users for a premium, but the app itself provides the means to run a virtual machine on the Android device for free!
+ >
+ >2
+ >
 
 
 
