@@ -199,7 +199,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -221,11 +222,11 @@
   },
   "active": "1fdb20f7fe4e156e",
   "lastOpenFiles": [
+    "Chats/New Chat.md",
     "The Operating System.md",
     "Plan.md",
     "Pasted image 20240409050055.png",
     "Pasted image 20240409050037.png",
-    "Chats/New Chat.md",
     "ScratchPad.md",
     "The Blockchain.md",
     "Pasted image 20240409043958.png",

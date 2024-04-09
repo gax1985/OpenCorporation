@@ -21,10 +21,10 @@
 	- [x] Explanation of Blockchain utilization
 	 - [x] Description of the DAO Concept 
 	 - [x] Explanation of Smart Contracts' Usage
-	 - [ ] The Operating System
+	 - [x] The Operating System
 	 - [ ] Custering
 	 - [x] The Window Manager
-	 - [ ] Supported Devices
+	 - [x] Supported Devices
 - [ ] Tokenization
 	 - [ ] Explanation of the role of Tokenization in relavance to time-worked
 	 - [ ] Explanation of the Voting Token
