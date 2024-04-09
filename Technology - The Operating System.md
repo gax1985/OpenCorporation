@@ -123,14 +123,13 @@ In terms of running the distribution on an Android device, I have found some pro
 
 >1.  [UserLand - Google Play](https://play.google.com/store/apps/details?id=tech.ula&pcampaignid=web_share)  :
 >   
->   
->   ![[Pasted image 20240409042159.png]]
+>   ![[Pasted image 20240409043958.png]]
  >  
->This application provides the Android user with the ability to run a virtual machine on the device. They provide custom-made distributions for the users for a premium, but the app itself provides the means to run a virtual machine on the Android device for free!
+>This is another application for Android, which brings with it an easier way to run a Linux distribution on Android. After using the app, I noticed an interesting option to host an application instead of a virtual machine. Since the Android app itself is a graphical interface, with command-line magic behind the scenes, this provides an excellent learning opportunities ( which should prove extremely helpful for this project).   
 >
 >For more information, check out the project's GitHub page : 
 >
->[https://github.com/AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
+>[CypherpunkArmory/UserLAnd: Main UserLAnd Repository (github.com)](https://github.com/CypherpunkArmory/UserLAnd?tab=readme-ov-file)
  >
  >
 
@@ -140,7 +139,7 @@ For those of us who thrive for the nitty-gritty details, I felt the following ar
 >[How the Android 13 Virtualization Module Uses pKVM to Boot Virtual Machines (esper.io)](https://www.esper.io/blog/android-dessert-bites-5-virtualization-in-android-13-351789)
 
 
-
+What I have noticed about the two applications is their use of [Termux](https://termux.dev/en/), which is an **Android Terminal Emulator**. This is the playground on Android for those who have a fondness of learning how things work behind the scenes 
 
 ## The Cluster
 
