@@ -121,7 +121,7 @@ In terms of running the distribution on an Android device, I have found some pro
 
 
 
->1.  [Andronix](https://andronix.app/)  :
+>1.  [UserLand - Google Play](https://play.google.com/store/apps/details?id=tech.ula&pcampaignid=web_share)  :
 >   
 >   
 >   ![[Pasted image 20240409042159.png]]
