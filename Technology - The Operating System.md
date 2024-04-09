@@ -133,6 +133,15 @@ In terms of running the distribution on an Android device, I have found some pro
 >[https://github.com/AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
  >
  >
+
+
+For those of us who thrive for the nitty-gritty details, I felt the following article by **Mishaal Rahman** is perfect to share with you, as it covers the behind-the-scenes details of virtualization on Android 13 : 
+
+>[How the Android 13 Virtualization Module Uses pKVM to Boot Virtual Machines (esper.io)](https://www.esper.io/blog/android-dessert-bites-5-virtualization-in-android-13-351789)
+
+
+
+
 ## The Cluster
 
 
