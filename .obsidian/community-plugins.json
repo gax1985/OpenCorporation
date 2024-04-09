@@ -7,11 +7,12 @@
   "code-styler",
   "readability-score",
   "better-word-count",
-  "obsidian-emoji-toolbar",
   "obsidian-zotero-desktop-connector",
   "obsidian-daily-stats",
   "graph-analysis",
   "juggl",
   "smart-second-brain",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "emoji-titler",
+  "emoji-magic"
 ]

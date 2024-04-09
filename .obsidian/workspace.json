@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "67a6d35f00daf7aa",
+        "id": "53d4c8197354ab0c",
         "type": "tabs",
+        "dimension": 61.8801652892562,
         "children": [
           {
-            "id": "73b533ab0c067f33",
+            "id": "907f983ee25d1077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "The Operating System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8fba8f9cd081190f",
+        "type": "tabs",
+        "dimension": 38.1198347107438,
+        "children": [
+          {
+            "id": "1fdb20f7fe4e156e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 346.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chats/New Chat.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chats/New Chat.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chats/New Chat.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -179,12 +199,12 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 491.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,22 +219,24 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "d0dcf25044e59f0b",
+  "active": "1fdb20f7fe4e156e",
   "lastOpenFiles": [
-    "Technology - The Operating System.md",
+    "The Operating System.md",
+    "Plan.md",
+    "Pasted image 20240409050055.png",
+    "Pasted image 20240409050037.png",
+    "Chats/New Chat.md",
     "ScratchPad.md",
-    "Technology - The Blockchain.md",
+    "The Blockchain.md",
     "Pasted image 20240409043958.png",
     "Pasted image 20240409043952.png",
     "Pasted image 20240409043041.png",
     "Pasted image 20240409042159.png",
-    "Chats/New Chat.md",
     "Chats",
     "The Technological Bits.md",
     "Writers' Guild.md",
     "OpenCorporation.md",
     "[Free eBooks.md",
-    "Plan.md",
     "Challenges.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",

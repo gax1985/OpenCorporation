@@ -34,4 +34,4 @@ How can we do so *technologically-speaking* ? I am glad you asked : )
 
 
 
-[[Technology - The Blockchain]]
+[[The Blockchain]]
