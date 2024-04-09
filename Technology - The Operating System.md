@@ -139,7 +139,7 @@ For those of us who thrive for the nitty-gritty details, I felt the following ar
 >[How the Android 13 Virtualization Module Uses pKVM to Boot Virtual Machines (esper.io)](https://www.esper.io/blog/android-dessert-bites-5-virtualization-in-android-13-351789)
 
 
-What I have noticed about the two applications is their use of [Termux](https://termux.dev/en/), which is an **Android Terminal Emulator**. This is the playground on Android for those who have a fondness of learning how things work behind the scenes 
+What I have noticed about the two applications is their use of [Termux](https://termux.dev/en/), which is an **Android Terminal Emulator**. This is the playground on Android for those who have a fondness of learning how things work behind the scenes  
 
 ## The Cluster
 

@@ -97,15 +97,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.72,
-      "characterCount": 8076,
+      "characterCount": 8077,
       "nonWhitespaceCharacterCount": 6728,
       "readingTimeInMinutes": 4.211320754716981,
       "linkCount": 4,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1709600670424,
-      "modifiedDate": 1712648856251,
-      "sizeInBytes": 8076
+      "modifiedDate": 1712649015506,
+      "sizeInBytes": 8077
     },
     "Plan.md": {
       "isCountable": true,

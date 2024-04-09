@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Chats/New Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology - The Operating System.md",
+                "file": "Chats/New Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology - The Operating System.md"
+                "file": "Chats/New Chat.md"
               }
             }
           },
@@ -181,12 +180,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 503.5,
-    "collapsed": true
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,23 +199,23 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "73f65721c2daf0fc",
+  "active": "d0dcf25044e59f0b",
   "lastOpenFiles": [
+    "Technology - The Operating System.md",
+    "ScratchPad.md",
+    "Technology - The Blockchain.md",
     "Pasted image 20240409043958.png",
     "Pasted image 20240409043952.png",
     "Pasted image 20240409043041.png",
     "Pasted image 20240409042159.png",
     "Chats/New Chat.md",
-    "Technology - The Operating System.md",
     "Chats",
-    "Technology - The Blockchain.md",
     "The Technological Bits.md",
     "Writers' Guild.md",
     "OpenCorporation.md",
     "[Free eBooks.md",
     "Plan.md",
     "Challenges.md",
-    "ScratchPad.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",
     "Pasted image 20240304202515.png"
