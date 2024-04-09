@@ -107,14 +107,32 @@ In terms of running the distribution on an Android device, I have found some pro
 
   >
 >1.  [Andronix](https://andronix.app/)  :
+>   
+>   
+>   ![[Pasted image 20240409042159.png]]
  >  
 >This application provides the Android user with the ability to run a virtual machine on the device. They provide custom-made distributions for the users for a premium, but the app itself provides the means to run a virtual machine on the Android device for free!
+>
+>For more information, check out the project's GitHub page : 
+>
+>[https://github.com/AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
  >
- >2
  >
 
 
 
+>1.  [Andronix](https://andronix.app/)  :
+>   
+>   
+>   ![[Pasted image 20240409042159.png]]
+ >  
+>This application provides the Android user with the ability to run a virtual machine on the device. They provide custom-made distributions for the users for a premium, but the app itself provides the means to run a virtual machine on the Android device for free!
+>
+>For more information, check out the project's GitHub page : 
+>
+>[https://github.com/AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
+ >
+ >
 ## The Cluster
 
 
