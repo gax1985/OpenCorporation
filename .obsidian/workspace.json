@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "53d4c8197354ab0c",
+        "id": "57097110f9a5f3ee",
         "type": "tabs",
-        "dimension": 61.8801652892562,
+        "dimension": 63.7396694214876,
         "children": [
           {
-            "id": "907f983ee25d1077",
+            "id": "fdce19bacd19c08d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Operating System.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
       },
       {
-        "id": "8fba8f9cd081190f",
+        "id": "e5d2a281c6276f3c",
         "type": "tabs",
-        "dimension": 38.1198347107438,
+        "dimension": 36.260330578512395,
         "children": [
           {
-            "id": "1fdb20f7fe4e156e",
+            "id": "73b533ab0c067f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 356.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -188,27 +184,18 @@
               "type": "juggl_style",
               "state": {}
             }
-          },
-          {
-            "id": "d0dcf25044e59f0b",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              }
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 491.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-second-brain:Open S2B Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,29 +203,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "juggl:Juggl global graph": false,
-      "smart-second-brain:Open S2B Chat": false
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "1fdb20f7fe4e156e",
+  "active": "73b533ab0c067f33",
   "lastOpenFiles": [
-    "Chats/New Chat.md",
-    "The Operating System.md",
-    "Plan.md",
     "Pasted image 20240409050055.png",
     "Pasted image 20240409050037.png",
-    "ScratchPad.md",
-    "The Blockchain.md",
     "Pasted image 20240409043958.png",
     "Pasted image 20240409043952.png",
     "Pasted image 20240409043041.png",
     "Pasted image 20240409042159.png",
-    "Chats",
-    "The Technological Bits.md",
+    "The Blockchain.md",
+    "The Operating System.md",
+    "Technology - The Operating System.md",
     "Writers' Guild.md",
+    "The Technological Bits.md",
+    "Technology - The Blockchain.md",
+    "Technology - The Cluster.md",
+    "Plan.md",
+    "Chats/New Chat.md",
+    "Chats",
+    "ScratchPad.md",
+    "Challenges.md",
     "OpenCorporation.md",
     "[Free eBooks.md",
-    "Challenges.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",
     "Pasted image 20240304202515.png"
