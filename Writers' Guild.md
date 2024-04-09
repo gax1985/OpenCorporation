@@ -69,6 +69,21 @@ To answer this, I pondered multiple strategies , such as :
 5. Afterwards, the model would be ready for use! 
 
 
+>[!note]
+>
+>Concerning the **GPT4ALL** as an option, I have noticed another potential solution :
+>
+>#### PrivateGPT
+>
+>
+>
+>
+>###### GitHub Repo :
+>
+>(https://github.com/zylon-ai/private-gpt)
+>
+>
+
 
 As the writer proceeds with the writing practice, the **Writer Assistant** would provide recommendations as needed. The writer could ask the Large Language Model about the character thus far, where the writer could analyze the character on different aspects from an index of 0-10 , in areas such as : 
 

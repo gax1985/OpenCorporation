@@ -87,19 +87,19 @@ The **Operating System** should be prepared in a way that can be run on almost a
 
 This option would provide the means to run our operating system on bare-metal ( which means it can be installed directly unto a hard-drive, USB Flash Drive) or to run it in a virtual machine. The latter option would be tremendously helpful at the design stage, as we would simulate different configurations ( in terms of virtualized hardware) to mimic realistic usage scenarios ( such as developing the operating system to run on Android devices for example). 
 
-##### 2. A NixOS-based Distribution (running virtually on iPhone/iPad)
+##### 3. A NixOS-based Distribution (running virtually on iPhone/iPad)
 
 
 Apple's mobile devices would be a bit more challenging, as the only hypervisor that worked on iOS and iPad OS devices is [UTM](https://getutm.app/). Nonetheless,  if we examine the portion of the [Documentation]([iOS | UTM Documentation (getutm.app)](https://docs.getutm.app/installation/ios/)) involving the installation of the hypervisor unto an iOS/iPadOS device, the steps are far too daunting for us without the technological know-how and means to jailbreak their device.
 
 
-##### 2. A NixOS-based Distribution (running virtually on MacOS)
+##### 4. A NixOS-based Distribution (running virtually on MacOS)
 
 
 Running the hypervisor on a MacOS-based device would be far easier than its mobile counterparts ( due to the mentioned reasons). 
 
 
-##### 3. A NixOS-based Distribution (running virtually on Android-based devices)
+##### 5. A NixOS-based Distribution (running virtually on Android-based devices)
 
 
 In terms of running the distribution on an Android device, I have found some promising projects that enable the user to run a virtual machine on Android. Let us go through some of the available options :
@@ -121,7 +121,7 @@ In terms of running the distribution on an Android device, I have found some pro
 
 
 
->1.  [UserLand - Google Play](https://play.google.com/store/apps/details?id=tech.ula&pcampaignid=web_share)  :
+>2.  [UserLand - Google Play](https://play.google.com/store/apps/details?id=tech.ula&pcampaignid=web_share)  :
 >   
 >   ![[Pasted image 20240409043958.png]]
  >  
@@ -140,6 +140,7 @@ For those of us who thrive for the nitty-gritty details, I felt the following ar
 
 
 What I have noticed about the two applications is their use of [Termux](https://termux.dev/en/), which is an **Android Terminal Emulator**. This is the playground on Android for those who have a fondness of learning how things work behind the scenes😉! With **UserLand**, the application asks the user to choose their Linux distribution, the Graphical User Interface, and afterwards, the application offers to copy a command, and to paste it in the **Termux Android Terminal Emulator**! I appreciate all the work that went into these projects, and I wanted to express my gratitude for the creators of these applications!
+
 
 ## The Cluster
 
