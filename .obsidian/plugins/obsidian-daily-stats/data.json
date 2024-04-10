@@ -1,16 +1,20 @@
 {
   "dayCounts": {
     "2024/3/8": 199,
-    "2024/3/9": 424
+    "2024/3/9": 452
   },
   "todaysWordCount": {
     "The Operating System.md": {
       "initial": 1310,
-      "current": 1555
+      "current": 1583
     },
     "Writers' Guild.md": {
       "initial": 1272,
       "current": 1451
+    },
+    "Plan.md": {
+      "initial": 180,
+      "current": 180
     }
   }
 }

@@ -148,6 +148,7 @@ What I have noticed about the two applications is their use of [Termux](https://
 Since this idea stems of the shared computing power from all the participants in the organization, we would have to come up with different options to make the **Cluster** a reality. After a lot of research, I thought the following options are available to do so : 
 
 
+
 >
 >##### 1. Docker's Swarm Mode 
 >
@@ -170,6 +171,7 @@ Since this idea stems of the shared computing power from all the participants in
  
 
 
+
 >##### 2. Kubernetes Clusrer
 >
 >> [!summary] 
@@ -184,10 +186,24 @@ Since this idea stems of the shared computing power from all the participants in
 >
 >>[!cons]
 >>
->>Kubernetes may appear a bit too technical (where there is a will, there is a way )
->>   
->>   [Container Escape: All You Need is Cap (Capabilities) (cybereason.com)](https://www.cybereason.com/blog/container-escape-all-you-need-is-cap-capabilities)
->>  
+>>Kubernetes may appear a bit too technical (where there is a will, there is a way 😅 )
+>
+>
+>>> [!info] 
+>>> 
+>>> For some extra information about the **Kubernetes Cluster**, I have found the following page :
+>>> 
+>>> What is a Kubernetes Cluster? - K8s Cluster Explained - AWS (amazon.com)](https://aws.amazon.com/what-is/kubernetes-cluster/)  
+>>> 
+>>> In terms of implementing the Kubernetes Cluster on **NixOS** : 
+>>> 
+>>> [Kubernetes - NixOS Wiki](https://nixos.wiki/wiki/Kubernetes)
+
+
+
+
+
+
 
 
 

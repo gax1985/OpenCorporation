@@ -22,7 +22,7 @@
 	 - [x] Description of the DAO Concept 
 	 - [x] Explanation of Smart Contracts' Usage
 	 - [x] The Operating System
-	 - [ ] Custering
+	 - [x] Custering
 	 - [x] The Window Manager
 	 - [x] Supported Devices
 - [ ] Tokenization

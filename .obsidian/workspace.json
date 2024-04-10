@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Operating System.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Operating System.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +122,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Operating System.md",
-                "linksCollapsed": false,
+                "file": "Plan.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Operating System.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,10 +209,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "73b533ab0c067f33",
+  "active": "fe2550a0c582d410",
   "lastOpenFiles": [
-    "Writers' Guild.md",
     "The Operating System.md",
+    "Writers' Guild.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240409223758.png",
     "The Technological Bits.md",
