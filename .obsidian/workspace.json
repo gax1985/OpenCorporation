@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokenization.md",
+                "file": "The Technological Bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokenization.md",
+                "file": "The Technological Bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokenization.md",
+                "file": "The Technological Bits.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tokenization.md"
+                "file": "The Technological Bits.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -191,15 +191,16 @@
   },
   "active": "73b533ab0c067f33",
   "lastOpenFiles": [
-    "The Blockchain.md",
-    "Tokenization.md",
     "The Operating System.md",
+    "The Blockchain.md",
+    "ScratchPad.md",
+    "Challenges.md",
+    "Tokenization.md",
     "The Technological Bits.md",
     "Plan.md",
     "Writers' Guild.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240409223758.png",
-    "ScratchPad.md",
     "Technology - The Cluster.md",
     "Pasted image 20240409050055.png",
     "Pasted image 20240409050037.png",
@@ -211,7 +212,6 @@
     "Technology - The Blockchain.md",
     "Chats/New Chat.md",
     "Chats",
-    "Challenges.md",
     "OpenCorporation.md",
     "[Free eBooks.md",
     "Pasted image 20240304202717.png",

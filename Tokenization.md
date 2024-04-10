@@ -36,6 +36,14 @@ So, dearest reader, this brings us to the point :
 When our lives demand of us to do something in terms of labor to aid our families and loved-ones, would a salary-based career be as *just* as a per-hour wage labor?
 
 
+I support the notion that workers are more likely to be forced to go through their days with the possibility of extra work arriving on their shores at a moment's notice. Ofcourse, there are many exceptions, but what concerns me is the state of the majority of us. Work-life balance suffers even more, as it takes the back seat in the face of this idea living in our subconscious minds.  
+
+
+Yet, to compare ,those who earn an hourly wage have a feature that decreases the likelihood of this happening : **Overtime Pay**! 
+
+The employer is less likely, in ordinary circumstances, to doll out overtime pay unless absolutely necessary, as profits must be maximized at any costs!
+
+
 
 
 
