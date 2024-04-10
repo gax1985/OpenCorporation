@@ -75,6 +75,8 @@ To answer this, I pondered multiple strategies , such as :
 >
 >##### PrivateGPT
 >
+>![[Pasted image 20240409223758.png]]
+>
 >
 >###### GitHub Repo :
 >
@@ -87,12 +89,14 @@ To answer this, I pondered multiple strategies , such as :
 >###### Project's Description :
 >
 >> [!quote] 
->>"*PrivateGPT provides an **API** containing all the building blocks required to build **private, context-aware AI applications**".
+>>"*PrivateGPT provides an **API** containing all the building blocks required to build **private, context-aware AI applications***".
 >>
->>Queoted from [**PrivateGPT's Documentation**]([Introduction – PrivateGPT | Docs](https://docs.privategpt.dev/overview/welcome/introduction)) 	 
->  
->  
->   
+>>Quoted from [**PrivateGPT's Documentation**]([Introduction – PrivateGPT | Docs](https://docs.privategpt.dev/overview/welcome/introduction)) 	 
+>>
+>
+>> To compare **GPT4ALL** with **PrivateGPT**, I have tried to use GPT4ALL as a part of a Python-based project involving AI-assisted Study Shift Scheduler. The idea was to examine the contents of my assignment instructions to estimate the time needed to complete each step of the assignment. The part I struggled with was to have GPT4ALL ingest the documents to examine the information within them, where the documentation was a bit vague on connecting the information gathered from the documents to the AI-Model's prompt ( the prompt is the question that we pose to the *Large Language Model* or *AI-Model*)
+>
+ 
 
 
 As the writer proceeds with the writing practice, the **Writer Assistant** would provide recommendations as needed. The writer could ask the Large Language Model about the character thus far, where the writer could analyze the character on different aspects from an index of 0-10 , in areas such as : 

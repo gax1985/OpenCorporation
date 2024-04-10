@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -195,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +212,7 @@
   },
   "active": "73b533ab0c067f33",
   "lastOpenFiles": [
+    "Pasted image 20240409223758.png",
     "The Technological Bits.md",
     "Plan.md",
     "ScratchPad.md",
