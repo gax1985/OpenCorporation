@@ -6,41 +6,9 @@
       {
         "id": "57097110f9a5f3ee",
         "type": "tabs",
-        "dimension": 70.63106796116504,
         "children": [
           {
             "id": "73b533ab0c067f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Operating System.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4160cc301b39e0a",
-        "type": "tabs",
-        "dimension": 29.36893203883495,
-        "children": [
-          {
-            "id": "c6d56e508ff69570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Blockchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae8447483443bee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,11 +189,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ae8447483443bee4",
+  "active": "73b533ab0c067f33",
   "lastOpenFiles": [
     "The Blockchain.md",
-    "The Operating System.md",
     "Tokenization.md",
+    "The Operating System.md",
     "The Technological Bits.md",
     "Plan.md",
     "Writers' Guild.md",
