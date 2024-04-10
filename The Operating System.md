@@ -170,7 +170,7 @@ Since this idea stems of the shared computing power from all the participants in
  
 
 
->##### 1. Docker's Swarm Mode 
+>##### 2. Docker's Swarm Mode 
 >
 >> [!summary] 
 >  
