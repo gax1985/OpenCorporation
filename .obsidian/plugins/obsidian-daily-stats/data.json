@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2024/3/8": 199,
-    "2024/3/9": 452
+    "2024/3/9": 513
   },
   "todaysWordCount": {
     "The Operating System.md": {
@@ -15,6 +15,14 @@
     "Plan.md": {
       "initial": 180,
       "current": 180
+    },
+    "The Blockchain.md": {
+      "initial": 360,
+      "current": 360
+    },
+    "Tokenization.md": {
+      "initial": 0,
+      "current": 61
     }
   }
 }

@@ -33,13 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "The Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae8447483443bee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tokenization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Tokenization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Tokenization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Tokenization.md"
               }
             }
           },
@@ -190,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -209,16 +222,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "fe2550a0c582d410",
+  "active": "ae8447483443bee4",
   "lastOpenFiles": [
+    "The Blockchain.md",
     "The Operating System.md",
+    "Tokenization.md",
+    "The Technological Bits.md",
+    "Plan.md",
     "Writers' Guild.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240409223758.png",
-    "The Technological Bits.md",
-    "Plan.md",
     "ScratchPad.md",
-    "The Blockchain.md",
     "Technology - The Cluster.md",
     "Pasted image 20240409050055.png",
     "Pasted image 20240409050037.png",

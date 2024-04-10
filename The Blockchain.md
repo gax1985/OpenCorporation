@@ -32,13 +32,9 @@ Our desire for abundant riches would help us in helping each other and this wond
 Another wonderful feature that certain cryptocurrencies and their blockchains provide us is *Smart Contracts*, which are actions that take place when certain conditions are met. The way I see this feature being utilized by Open Corporation is through the **voting process**, **charitable donations**, and the **division of earnings between the creators**. The division of earnings would happen automatically! 
 
 
-#### Tokenization
-
-
-I see them as an integral part in insuring fairness to all those involved. Tokenization would be used in the **voting process**, **time-keeping (to insure fair division of earnings)**, and **support tokens (which would be a token issued for the project itself, in which the public audience can support the creator by purchasing their project's token).  
 
 
 
 ----------------------
 
-Let us proceed towards the [[The Operating System| The Operating System!]]
+Let us proceed towards the [[Tokenization]] for a more detailed explanation : )

@@ -200,38 +200,6 @@ Since this idea stems of the shared computing power from all the participants in
 >>> [Kubernetes - NixOS Wiki](https://nixos.wiki/wiki/Kubernetes)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Let us proceed to [[Writers' Guild]], so we can see a manifestation of **Open Corporation**! 
 
 
