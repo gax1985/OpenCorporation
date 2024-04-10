@@ -163,7 +163,7 @@ Since this idea stems of the shared computing power from all the participants in
 >
 >>[!cons]
 >>
->>1. Docker is quite vulnerable in terms of its potential vulnerabilities :
+>>1. Docker is quite vulnerable to 
 >>  
  
 
