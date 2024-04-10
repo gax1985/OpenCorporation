@@ -170,21 +170,21 @@ Since this idea stems of the shared computing power from all the participants in
  
 
 
->##### 2. Docker's Swarm Mode 
+>##### 2. Kubernetes Clusrer
 >
 >> [!summary] 
 >  
->  Docker's **Swarm Mode** basically manages a group of Docker-running computers, where the administrator would indicate the desired state of the containers, and then Docker's Swarm Mode would maintain the desired state. 
+>  Kubernetes' *Cluster* feature refers to a group of interconnected hosts running Kubernetes-based containers, enabling the administrator to utilize automation and scheduling. The administrator would have the ability to interact with the API server programmatically, as well as the 
 >
 >>[!pros]
 >>
->>1. Docker is widely used by developers and other users across the tech-industry!
->>2. Due to Docker's popularity, we have tons of resources online in case we run into challenges    
+>>1. Kubernetes is widely used by developers and other users across the tech-industry, much like **Docker**!
+>>2. Kubernetes' Cluster would have the ability to balance the computing resources across the cluster!
 >
 >
 >>[!cons]
 >>
->>Docker is quite vulnerable to **Container Escape**, which involves the attacker being able to escape the confines of the container.  For more information on this vulnerability, please check out the following page : 
+>>Kubernetes may appear a bit too technical (where there is a will, there is a way )
 >>   
 >>   [Container Escape: All You Need is Cap (Capabilities) (cybereason.com)](https://www.cybereason.com/blog/container-escape-all-you-need-is-cap-capabilities)
 >>  
