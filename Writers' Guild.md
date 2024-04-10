@@ -76,9 +76,7 @@ To answer this, I pondered multiple strategies , such as :
 >#### PrivateGPT
 >
 >
->
->
->###### GitHub Repo :
+>GitHub Repo :
 >
 >(https://github.com/zylon-ai/private-gpt)
 >
