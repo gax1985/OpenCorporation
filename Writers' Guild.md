@@ -76,10 +76,13 @@ To answer this, I pondered multiple strategies , such as :
 >##### PrivateGPT
 >
 >
->GitHub Repo :
+>###### GitHub Repo :
 >
->(https://github.com/zylon-ai/private-gpt)
+>https://github.com/zylon-ai/private-gpt
 >
+>###### Project's Documentation : 
+>
+>[Introduction – PrivateGPT | Docs](https://docs.privategpt.dev/overview/welcome/introduction)
 >
 
 
