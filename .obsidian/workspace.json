@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writers' Guild.md",
+                "file": "The Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writers' Guild.md",
+                "file": "The Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writers' Guild.md",
+                "file": "The Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writers' Guild.md"
+                "file": "The Operating System.md"
               }
             }
           },
@@ -194,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +212,7 @@
   },
   "active": "73b533ab0c067f33",
   "lastOpenFiles": [
+    "Writers' Guild.md",
     "Pasted image 20240409223758.png",
     "The Technological Bits.md",
     "Plan.md",
@@ -226,7 +227,6 @@
     "Pasted image 20240409043041.png",
     "Pasted image 20240409042159.png",
     "Technology - The Operating System.md",
-    "Writers' Guild.md",
     "Technology - The Blockchain.md",
     "Chats/New Chat.md",
     "Chats",

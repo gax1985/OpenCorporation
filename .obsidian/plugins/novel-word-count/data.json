@@ -133,15 +133,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.9133333333333336,
-      "characterCount": 8447,
-      "nonWhitespaceCharacterCount": 7041,
+      "characterCount": 8460,
+      "nonWhitespaceCharacterCount": 7046,
       "readingTimeInMinutes": 4.430188679245283,
       "linkCount": 4,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1709600670424,
-      "modifiedDate": 1712703222293,
-      "sizeInBytes": 8449
+      "modifiedDate": 1712713569497,
+      "sizeInBytes": 8462
     },
     "Pasted image 20240409050055.png": {
       "isCountable": false,

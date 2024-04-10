@@ -148,6 +148,14 @@ What I have noticed about the two applications is their use of [Termux](https://
 Since this idea stems of the shared computing power from all the participants in the organization, we would have to come up with different options to make the **Cluster** a reality. After a lot of research, I thought the following options are available to do so : 
 
 
+>
+>
+>
+>
+>
+
+
+
 
 
 
