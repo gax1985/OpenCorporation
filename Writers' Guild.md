@@ -73,7 +73,7 @@ To answer this, I pondered multiple strategies , such as :
 >
 >Concerning the **GPT4ALL** as an option, I have noticed another potential solution :
 >
->#### PrivateGPT
+>##### PrivateGPT
 >
 >
 >GitHub Repo :
