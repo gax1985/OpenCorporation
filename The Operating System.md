@@ -149,10 +149,23 @@ Since this idea stems of the shared computing power from all the participants in
 
 
 >
+>##### Docker's Swarm Mode 
+>
+>> [!summary] 
+>  
+>  Docker's **Swarm Mode** basically manages a group of Docker-running computers, where the administrator would indicate the desired state of the containers, and then Docker's Swarm Mode would maintain the desired state. 
+>
+>>[!pros]
+>>
+>>1. Docker is widely used by developers and other users across the tech-industry!
+>>2. Due to Docker's popularity, we have tons of resources online in case we run into challenges    
 >
 >
->
->
+>>[!cons]
+>>
+>>1. Docker is quite vulnerable in terms of its potential vulnerabilities :
+>>  
+ 
 
 
 
