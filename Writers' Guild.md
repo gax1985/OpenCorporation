@@ -84,6 +84,15 @@ To answer this, I pondered multiple strategies , such as :
 >
 >[Introduction – PrivateGPT | Docs](https://docs.privategpt.dev/overview/welcome/introduction)
 >
+>###### Project's Description :
+>
+>> [!quote] 
+>>"*PrivateGPT provides an **API** containing all the building blocks required to build **private, context-aware AI applications**".
+>>
+>>Queoted from [**PrivateGPT's Documentation**]([Introduction – PrivateGPT | Docs](https://docs.privategpt.dev/overview/welcome/introduction)) 	 
+>  
+>  
+>   
 
 
 As the writer proceeds with the writing practice, the **Writer Assistant** would provide recommendations as needed. The writer could ask the Large Language Model about the character thus far, where the writer could analyze the character on different aspects from an index of 0-10 , in areas such as : 
