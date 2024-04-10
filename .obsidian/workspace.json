@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Operating System.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -212,6 +212,8 @@
   },
   "active": "73b533ab0c067f33",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "The Operating System.md",
     "Writers' Guild.md",
     "Pasted image 20240409223758.png",
     "The Technological Bits.md",
@@ -219,7 +221,6 @@
     "ScratchPad.md",
     "The Blockchain.md",
     "Technology - The Cluster.md",
-    "The Operating System.md",
     "Pasted image 20240409050055.png",
     "Pasted image 20240409050037.png",
     "Pasted image 20240409043958.png",

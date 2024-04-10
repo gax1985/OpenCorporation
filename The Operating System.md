@@ -170,7 +170,24 @@ Since this idea stems of the shared computing power from all the participants in
  
 
 
-
+>##### 1. Docker's Swarm Mode 
+>
+>> [!summary] 
+>  
+>  Docker's **Swarm Mode** basically manages a group of Docker-running computers, where the administrator would indicate the desired state of the containers, and then Docker's Swarm Mode would maintain the desired state. 
+>
+>>[!pros]
+>>
+>>1. Docker is widely used by developers and other users across the tech-industry!
+>>2. Due to Docker's popularity, we have tons of resources online in case we run into challenges    
+>
+>
+>>[!cons]
+>>
+>>Docker is quite vulnerable to **Container Escape**, which involves the attacker being able to escape the confines of the container.  For more information on this vulnerability, please check out the following page : 
+>>   
+>>   [Container Escape: All You Need is Cap (Capabilities) (cybereason.com)](https://www.cybereason.com/blog/container-escape-all-you-need-is-cap-capabilities)
+>>  
 
 
 
