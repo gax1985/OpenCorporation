@@ -149,7 +149,7 @@ Since this idea stems of the shared computing power from all the participants in
 
 
 >
->##### Docker's Swarm Mode 
+>##### 1. Docker's Swarm Mode 
 >
 >> [!summary] 
 >  
@@ -163,7 +163,9 @@ Since this idea stems of the shared computing power from all the participants in
 >
 >>[!cons]
 >>
->>1. Docker is quite vulnerable to 
+>>Docker is quite vulnerable to **Container Escape**, which involves the attacker being able to escape the confines of the container.  For more information on this vulnerability, please check out the following page : 
+>>   
+>>   [Container Escape: All You Need is Cap (Capabilities) (cybereason.com)](https://www.cybereason.com/blog/container-escape-all-you-need-is-cap-capabilities)
 >>  
  
 
