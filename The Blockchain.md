@@ -37,4 +37,4 @@ Another wonderful feature that certain cryptocurrencies and their blockchains pr
 
 ----------------------
 
-Let us proceed towards the [[Tokenization]] for a more detailed explanation : )
+Let us proceed towards the [[Tokenization]] for a more detailed explanation : - )

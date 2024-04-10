@@ -26,7 +26,7 @@
 	 - [x] The Window Manager
 	 - [x] Supported Devices
 - [ ] Tokenization
-	 - [ ] Explanation of the role of Tokenization in relavance to time-worked
+	 - [x] Explanation of the role of Tokenization in relavance to time-worked
 	 - [ ] Explanation of the Voting Token
 	 - [ ] Hosting Rewards
 - [ ] The Workday

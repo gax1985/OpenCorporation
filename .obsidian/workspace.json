@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Writers' Guild.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bfa4179da77d5861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab1fb3b1abcb2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Technological Bits.md",
+                "file": "Plan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Technological Bits.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -189,16 +207,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "73b533ab0c067f33",
+  "active": "1ab1fb3b1abcb2a9",
   "lastOpenFiles": [
-    "The Operating System.md",
     "The Blockchain.md",
-    "ScratchPad.md",
-    "Challenges.md",
-    "Tokenization.md",
-    "The Technological Bits.md",
     "Plan.md",
     "Writers' Guild.md",
+    "Tokenization.md",
+    "The Technological Bits.md",
+    "The Operating System.md",
+    "ScratchPad.md",
+    "Challenges.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240409223758.png",
     "Technology - The Cluster.md",
