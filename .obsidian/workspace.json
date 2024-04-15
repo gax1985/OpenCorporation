@@ -6,6 +6,7 @@
       {
         "id": "57097110f9a5f3ee",
         "type": "tabs",
+        "dimension": 62.31281198003328,
         "children": [
           {
             "id": "73b533ab0c067f33",
@@ -24,6 +25,7 @@
       {
         "id": "bfa4179da77d5861",
         "type": "tabs",
+        "dimension": 37.68718801996672,
         "children": [
           {
             "id": "1ab1fb3b1abcb2a9",
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writers' Guild.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writers' Guild.md",
+                "file": "Plan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writers' Guild.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -188,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,11 +209,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "73b533ab0c067f33",
+  "active": "1ab1fb3b1abcb2a9",
   "lastOpenFiles": [
+    "OpenCorporation.md",
     "Plan.md",
-    "The Blockchain.md",
     "Writers' Guild.md",
+    "The Blockchain.md",
     "Tokenization.md",
     "The Technological Bits.md",
     "The Operating System.md",
@@ -230,7 +233,6 @@
     "Technology - The Blockchain.md",
     "Chats/New Chat.md",
     "Chats",
-    "OpenCorporation.md",
     "[Free eBooks.md",
     "Pasted image 20240304202717.png",
     "Pasted image 20240304202637.png",
