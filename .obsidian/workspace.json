@@ -6,7 +6,7 @@
       {
         "id": "57097110f9a5f3ee",
         "type": "tabs",
-        "dimension": 48.58569051580699,
+        "dimension": 68.8082901554404,
         "children": [
           {
             "id": "73b533ab0c067f33",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writers' Guild.md",
+                "file": "The Agora.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "bfa4179da77d5861",
         "type": "tabs",
-        "dimension": 51.41430948419301,
+        "dimension": 31.191709844559583,
         "children": [
           {
             "id": "1ab1fb3b1abcb2a9",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Blockchain.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 265.5
   },
   "right": {
     "id": "f7d0a0dcfd22d585",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Blockchain.md",
+                "file": "The Agora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Blockchain.md",
+                "file": "The Agora.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Blockchain.md"
+                "file": "The Agora.md"
               }
             }
           },
@@ -210,15 +210,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "1ab1fb3b1abcb2a9",
+  "active": "73b533ab0c067f33",
   "lastOpenFiles": [
+    "Pasted image 20240416095318.png",
     "Writers' Guild.md",
     "Plan.md",
+    "The Agora.md",
+    "The Blockchain.md",
     "The Technological Bits.md",
     "The Operating System.md",
     "Tokenization.md",
     "OpenCorporation.md",
-    "The Blockchain.md",
     "ScratchPad.md",
     "Challenges.md",
     "conflict-files-obsidian-git.md",

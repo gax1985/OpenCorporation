@@ -27,16 +27,18 @@ If the application itself is free of cost, then organizations would choose the f
 In the corporate world, I have used Slack personally. It is a fantastic application in my opinion, as it is very expandable and adaptable to the needs of the different organizations that use it. I have examined potential free and open-source alternatives, and the following two options have caught my attention : 
 
 
-#### Matrix Self-Hosted Servers 
+## Matrix Self-Hosted Servers 
 
 
 
-Website : 
+#### Website : 
 
 https://matrix.org/
 
+![[Pasted image 20240416095318.png]]
 
-Description: 
+
+## Description: 
 
 
 The Matrix Platform is a self hosted communications platform that is an excellent alternative to Slack. Matrix servers are free of cost, and can be hosted in the cloud, or privately (which is a wonderful gift to OpenCorpation's vision). They are maliable in the sense of their adaptability to a variety of uses. 
