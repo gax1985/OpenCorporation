@@ -32,7 +32,7 @@
 - [ ] The Workday
 	- [ ] Time-Keeping Methodology
 	- [ ] Scheduling Recommendation
-- [ ] The Agora 
+- [x] The Agora 
 	- [ ] The Support Staff 
 	- [ ] Psychological Aid
 	- [ ] Copyright/Patent Law Solicitors

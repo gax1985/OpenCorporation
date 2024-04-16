@@ -45,10 +45,16 @@ The Matrix Platform is a self hosted communications platform that is an excellen
 
 
 
-#### Nextcloud
+## Nextcloud
+
+#### Website : [Nextcloud - Open source content collaboration platform](https://nextcloud.com/)****
 
 
+![[Pasted image 20240416095938.png]]
 
+#### Description : 
+
+Nextcloud is a wonderful free and open-source alternative to the well-known-and-utilized Microsoft Office suite. It provides us with a cloud platform that includes the ability of having file storage, Microsoft-Office compatible document editing, as well as a a large number of plugins to extend its functionality ( one of them being hosting a **Matrix Server**!). As an option, it is tremendously useful. I have utilized it personally, and it has very capable client applications for Microsoft Windows, Linux and MacOS.  
 
 
 
