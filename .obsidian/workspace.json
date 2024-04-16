@@ -6,7 +6,7 @@
       {
         "id": "57097110f9a5f3ee",
         "type": "tabs",
-        "dimension": 62.31281198003328,
+        "dimension": 48.58569051580699,
         "children": [
           {
             "id": "73b533ab0c067f33",
@@ -25,7 +25,7 @@
       {
         "id": "bfa4179da77d5861",
         "type": "tabs",
-        "dimension": 37.68718801996672,
+        "dimension": 51.41430948419301,
         "children": [
           {
             "id": "1ab1fb3b1abcb2a9",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "The Blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "The Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "The Blockchain.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "The Blockchain.md"
               }
             }
           },
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,13 +212,13 @@
   },
   "active": "1ab1fb3b1abcb2a9",
   "lastOpenFiles": [
-    "OpenCorporation.md",
-    "Plan.md",
     "Writers' Guild.md",
-    "The Blockchain.md",
-    "Tokenization.md",
+    "Plan.md",
     "The Technological Bits.md",
     "The Operating System.md",
+    "Tokenization.md",
+    "OpenCorporation.md",
+    "The Blockchain.md",
     "ScratchPad.md",
     "Challenges.md",
     "conflict-files-obsidian-git.md",
