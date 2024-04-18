@@ -164,14 +164,6 @@
             }
           },
           {
-            "id": "cc87b13373666e9d",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
             "id": "07d5ed4522f9bdef",
             "type": "leaf",
             "state": {
@@ -202,14 +194,37 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "0017764f1313d9b6",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {}
+            }
+          },
+          {
+            "id": "22b0cfa161a8bf11",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0da76fd15908346",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,13 +235,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "6b63b2a76cbb2518",
+  "active": "29fa4ae48e563195",
   "lastOpenFiles": [
-    "The Agora.md",
+    "Untitled.canvas",
     "The Human Family.md",
+    "The Agora.md",
     "Plan.md",
     "Untitled.md",
     "Pasted image 20240416095938.png",

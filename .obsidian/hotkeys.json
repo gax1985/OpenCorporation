@@ -2,7 +2,8 @@
   "emoji-magic:insert": [
     {
       "modifiers": [
-        "Mod"
+        "Meta",
+        "Shift"
       ],
       "key": "E"
     }

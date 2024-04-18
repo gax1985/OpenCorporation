@@ -1,0 +1,9 @@
+{
+  "incrementOnceADay": true,
+  "storageType": "property",
+  "viewCountPropertyName": "view-count",
+  "lastViewDatePropertyName": "view-date",
+  "lastViewTimePropertyName": "last-view-time",
+  "pluginVersion": "1.0.0",
+  "logLevel": "off"
+}
