@@ -35,4 +35,8 @@ I believe that **OpenCorporation** should treat every member of its human family
 Personally, I have come across workers who worked in a café locally in my city. When they described the structure of this café, I was amazed to hear that the owner of this café offered every worker an equal share of the profits, as long as they worked there. I inquired about the availability of employment at this business venture, and I was not surprised to hear that the turnover rate is non-existent. The café's staff simply did not to leave! 
 
 
-Thus, this brings me to the structure that I have envisioned. Let us begin with a story 
+Thus, this brings me to the structure that I have envisioned. Let us begin with a story ✍️ !
+
+
+
+
