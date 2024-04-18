@@ -39,4 +39,10 @@ Thus, this brings me to the structure that I have envisioned. Let us begin with 
 
 
 
+###### Once upon a time ...
+
+
+...  a **Writer**, a **Patent Lawyer**, a **Psychologist** and an **Artificial-Intelligence Developer** fatefully happened to be in a quaint café. The writer appeared to be quite visibly depressed. Since the caf
+
+
 
