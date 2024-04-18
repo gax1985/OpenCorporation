@@ -3,20 +3,13 @@
     "2024/3/8": 199,
     "2024/3/9": 513,
     "2024/3/10": 571,
-    "2024/3/16": 102
+    "2024/3/16": 102,
+    "2024/3/18": 292
   },
   "todaysWordCount": {
-    "The Agora.md": {
-      "initial": 491,
-      "current": 590
-    },
-    "Plan.md": {
-      "initial": 182,
-      "current": 182
-    },
     "The Human Family.md": {
-      "initial": 0,
-      "current": 3
+      "initial": 4,
+      "current": 296
     }
   }
 }
