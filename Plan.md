@@ -1,3 +1,7 @@
+---
+view-date: 2024-04-18
+view-count: 1
+---
 
 
 
@@ -34,10 +38,10 @@
 	- [ ] Scheduling Recommendation
 - [x] The Agora 
 	- [ ] The Support Staff 
-	- [ ] Psychological Aid
-	- [ ] Copyright/Patent Law Solicitors
-	- [ ] Patent Lawyers
-	- [ ] Psychological Assistance Staff
+	- [x] Psychological Aid
+	- [x] Copyright/Patent Law Solicitors
+	- [x] Patent Lawyers
+	- [x] Psychological Assistance Staff
 	- [ ] Human Resources
 	- [ ] Cybersecurity Staff
 	- [ ] Mentors

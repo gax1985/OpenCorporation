@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Human Family.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Human Family.md",
+                "file": "Plan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Human Family.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -239,10 +239,10 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "29fa4ae48e563195",
+  "active": "1ab1fb3b1abcb2a9",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "The Human Family.md",
+    "Untitled.canvas",
     "The Agora.md",
     "Plan.md",
     "Untitled.md",

@@ -4,12 +4,16 @@
     "2024/3/9": 513,
     "2024/3/10": 571,
     "2024/3/16": 102,
-    "2024/3/18": 784
+    "2024/3/18": 787
   },
   "todaysWordCount": {
     "The Human Family.md": {
       "initial": 4,
       "current": 788
+    },
+    "Plan.md": {
+      "initial": 191,
+      "current": 194
     }
   }
 }
