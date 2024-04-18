@@ -42,7 +42,11 @@ Thus, this brings me to the structure that I have envisioned. Let us begin with 
 ###### Once upon a time ...
 
 
-...  a **Writer**, a **Patent Lawyer**, a **Psychologist** and an **Artificial-Intelligence Developer** fatefully happened to be in a quaint café. The writer appeared to be quite visibly depressed. Since the caf
+...  a **Writer**, a **Patent Lawyer**, a **Psychologist** and an **Artificial-Intelligence Developer** fatefully happened to be in a quaint café. The writer appeared to be quite visibly depressed. Since the café was smaller in size than its more-affluent counterparts, the psychologist heard the frustrated lamentations of the writer, and proceeded to approach the writer. They proceeded to have an interesting conversation : 
+
+
+>> [!question] 
+>  
 
 
 
