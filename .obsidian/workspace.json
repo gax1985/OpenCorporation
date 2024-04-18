@@ -180,7 +180,7 @@
             }
           },
           {
-            "id": "54c71588802b9715",
+            "id": "6b63b2a76cbb2518",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -188,7 +188,7 @@
             }
           },
           {
-            "id": "a8f2586034e1e5b9",
+            "id": "dea1247d1b3c12f3",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -196,7 +196,7 @@
             }
           },
           {
-            "id": "73f65721c2daf0fc",
+            "id": "e06bbf54db279f87",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,7 +213,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-second-brain:Open S2B Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -224,7 +223,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "29fa4ae48e563195",
+  "active": "6b63b2a76cbb2518",
   "lastOpenFiles": [
     "The Agora.md",
     "The Human Family.md",
